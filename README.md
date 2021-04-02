@@ -36,3 +36,5 @@ A word search is a grid of letters with hidden words placed along rows, columns,
 ### Send+More = Money - send_more_money.py
 SEND+MORE=MONEY is a cryptarithmetic puzzle, meaning that it is about finding digits that replace letters to make a mathematical statement true. Each letter in the problem represents one digit (0–9). No two letters can represent the same digit. When a letter repeats, it means a digit repeats in the solution.
 
+### Dijkstra's algorithm - dijkstra.py
+Dijkstra's single source shortest path algorithm
